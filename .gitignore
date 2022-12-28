@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+#env files
+.env
+
+#poorly written ToDo list LOL
+ToDo.txt
